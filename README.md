@@ -4,7 +4,7 @@ A secure User Management System built using **FastAPI** and **PostgreSQL** with 
 
 ---
 
-## 🚀 Tech Stack Used
+## Tech Stack Used
 
 - FastAPI
 - PostgreSQL
