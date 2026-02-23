@@ -1,4 +1,4 @@
-# 🔐 User Management System API
+#  User Management System API
 
 A secure User Management System built using **FastAPI** and **PostgreSQL** with authentication, profile management, role-based access, and password reset functionality.
 
@@ -16,7 +16,7 @@ A secure User Management System built using **FastAPI** and **PostgreSQL** with 
 
 ---
 
-## 📂 Project Features
+##  Project Features
 
 - User Registration
 - User Login
@@ -32,7 +32,7 @@ A secure User Management System built using **FastAPI** and **PostgreSQL** with 
 
 ---
 
-## ⚙️ Installation Steps
+##  Installation Steps
 
 ## Clone the Repository
 
@@ -43,7 +43,7 @@ cd USER_MANAGEMENT
 
 ---
 
-### 2️⃣ Create Virtual Environment
+### 2️. Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -102,7 +102,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📬 API Endpoints
+##  API Endpoints
 
 ---
 
